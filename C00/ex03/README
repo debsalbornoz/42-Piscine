@@ -1,0 +1,1 @@
+This is a C function that prints the numbers from 0 to 9 using the write system call from the unistd.h library.
