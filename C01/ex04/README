@@ -1,0 +1,1 @@
+The function ft_ultimate_div_mod takes two integer pointers a and b as its arguments, and computes the integer division of the value pointed to by a by the value pointed to by b, and stores the result in the integer pointed to by a. It also computes the remainder of the division operation and stores it in the integer pointed to by b.
