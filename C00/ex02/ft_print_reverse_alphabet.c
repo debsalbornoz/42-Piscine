@@ -2,13 +2,13 @@
 
 void	ft_print_reverse_alphabet(void)
 {
-	char c;
+	char letter;
 
-	c = 'z';
-	while (c >= 'a')
+	letter = 'z';
+	while (letter >= 'a')
 	{
-		write(1, &c, 1);
-		c--;
+		write(1, &letter, 1);
+		letter--;
 	}
 	write(1, "\n", 1);
 }
