@@ -1,0 +1,1 @@
+The function ft_swap takes two integer pointers a and b as its arguments and swaps the values of the integers that they point to.
