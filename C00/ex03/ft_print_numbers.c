@@ -3,12 +3,12 @@
 void	ft_print_numbers(void)
 
 {
-	char	c;
+	char	number;
 
-	c = '0';
-	while (c <= '9')
+	number = '0';
+	while (number <= '9')
 	{
-		write (1, &c, 1);
-		c++;
+		write (1, &number, 1);
+		number++;
 	}
 }
