@@ -1,0 +1,1 @@
+The function ft_sort_int_tab takes an integer array tab and its size size as its arguments, and sorts the elements in the array in ascending order using the selection sort algorithm.
