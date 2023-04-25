@@ -20,5 +20,4 @@ void	ft_putnbr(int nb)
 	{
 		ft_putnbr(nb / 10);
 	}
-	write(1, &c , 1);
-}
+	write(1, &c , 1)
