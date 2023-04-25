@@ -4,8 +4,3 @@
  {
     write (1, &c, 1);
  }
-
- int main(void)
- {
-    ft_putchar('a');
- }
