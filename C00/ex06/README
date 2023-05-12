@@ -1,1 +1,1 @@
-This C program prints all possible combinations of two-digit numbers in ascending order, separated by commas and spaces. The function ft_print_comb2 calls the helper function combinations to print each pair of combinations.
+This program prints all possible combinations of two-digit numbers in ascending order, separated by commas and spaces. The function ft_print_comb2 calls the helper function combinations to print each pair of combinations.
