@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include <stdio.h>
 
 int	ft_strlen(char *str)
 {
@@ -10,4 +10,10 @@ int	ft_strlen(char *str)
 		i++;
 	}
 	return (i);
+}
+
+int	main(void)
+{
+	char str[] = "Hello, world!";
+	printf("This string has %i characters", ft_strlen(str));
 }
