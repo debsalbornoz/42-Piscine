@@ -1,1 +1,1 @@
-This is a C function that takes an integer n as a parameter and prints "N" to standard output if n is negative, and "P" if n is positive or zero.
+This program takes an integer "n" as a parameter and prints "N" to standard output if "n" is negative, and "P" if "n" is positive or zero.
