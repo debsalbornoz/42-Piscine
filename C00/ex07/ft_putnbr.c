@@ -20,4 +20,14 @@ void	ft_putnbr(int nb)
 	{
 		ft_putnbr(nb / 10);
 	}
-	write(1, &c , 1)
+	write(1, &c , 1);
+}
+
+int main()
+{
+int number = -1234;
+write(1, "Number: ", 8);
+ft_putnbr(number);
+write(1, "\n", 1); // Quebra de linha após o número ser impresso
+return 0;
+}
