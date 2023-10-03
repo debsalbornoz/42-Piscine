@@ -4,8 +4,7 @@
 
 ### What is 42? 
 
-42 is a software development school, considered one of the best in the world. Its success is largely due to its disruptive pedagogical model, based on a peer-to-peer, project-based and gamified learning system.
-
+42 is one of the best software development schools in the world. Its success is largely due to its disruptive pedagogical model, based on a peer-to-peer, project-based and gamified learning system. Founded in Paris in 2013, 42 is present in more than 40 cities around the world
 ### What is the piscine?
 
 The Piscine is the last phase of the selection process that lasts 26 consecutive days and involves 42 face-to-face experience on the campus. This is typically a very intense period, of great commitment and enormous learning.
