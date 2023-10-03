@@ -1,5 +1,14 @@
 ![42](https://github.com/debsalbornoz/42-Piscine-Sp/assets/119970138/e021628d-f667-4db9-add0-4addfcd31571)
 
+## FAQ
+
+### What is 42?
+
+42 is one of the best software development schools in the world. Its success is largely due to its disruptive pedagogical model, based on a peer-to-peer, project-based and gamified learning system.
+
+### What is the piscine?
+
+The Piscine is the last phase of the selection process that lasts 26 consecutive days and involves 42 face-to-face experience on the campus. This is typically a very intense period, of great commitment and enormous learning.
 
 ## Skills
 •C language
