@@ -17,78 +17,78 @@ C language, Shell, Git.
 
 ## C00: Programming logic
 
-• ex00:
+• ex00 :
 
-• ex01:
+• ex01 :
 
-• ex02:
+• ex02 :
 
-• ex03:
+• ex03 :
 
-• ex04:
+• ex04 :
 
-• ex05:
+• ex05 :
 
-• ex06:
+• ex06 :
 
-• ex07:
+• ex07 :
 
 ## C01 : Pointers 
 
-• ex00:
+• ex00 :
 
-• ex01:
+• ex01 :
 
-• ex02:
+• ex02 :
 
-• ex03:
+• ex03 :
 
-• ex04:
+• ex04 :
 
-• ex05:
+• ex05 :
 
-• ex06:
+• ex06 :
 
-• ex07:
+• ex07 :
 
-• ex08:
+• ex08 :
 
 ## C02 : Strings and arrays 
 
-• ex00:
+• ex00 :
 
-• ex01:
+• ex01 :
 
-• ex02:
+• ex02 :
 
-• ex03:
+• ex03 :
 
-• ex04:
+• ex04 :
 
-• ex05:
+• ex05 :
 
-• ex06:
+• ex06 :
 
-• ex07:
+• ex07 :
 
-• ex08:
+• ex08 :
 
-• ex09:
+• ex09 :
 
 ## C03 : Strings funcions, manupilation and concatenation
 
-• ex00:
+• ex00 :
 
-• ex01:
+• ex01 : 
 
-• ex02:
+• ex02 :
 
-• ex03:
+• ex03 :
 
-## C04 : Manipulatin ints 
+## C04 : Manipulating ints 
 
-• ex00:
+• ex00 :
 
-• ex01:
+• ex01 :
 
-• ex02:
+• ex02 :
