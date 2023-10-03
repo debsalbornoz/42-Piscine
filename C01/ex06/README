@@ -1,1 +1,0 @@
-The function ft_strlen takes a pointer to a character array str as its argument and returns the length of the string, which is the number of characters in the string not including the null-terminating character \0.

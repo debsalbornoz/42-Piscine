@@ -1,1 +1,0 @@
-The function ft_putstr takes a pointer to a character array str as its argument and prints the characters of the string to the standard output, using the write function from the unistd.h library.

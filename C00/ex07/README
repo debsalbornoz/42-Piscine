@@ -1,1 +1,0 @@
-This program prints a given integer to the standard output. The function ft_putnbr takes an integer as input and writes it to the console.

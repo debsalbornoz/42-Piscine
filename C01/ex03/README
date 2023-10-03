@@ -1,1 +1,0 @@
-The function ft_div_mod takes two integer values a and b as its arguments, as well as two integer pointers div and mod. It then computes the integer division of a by b and stores the result in the integer pointed to by div. It also computes the remainder of a divided by b and stores the result in the integer pointed to by mod.

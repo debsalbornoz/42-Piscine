@@ -37,8 +37,3 @@ void	ft_print_comb2(void)
 		first_combination++;
 	}
 }
-
-int	main(void)
-{
-	ft_print_comb2();
-}

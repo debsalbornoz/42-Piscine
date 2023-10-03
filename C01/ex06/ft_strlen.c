@@ -11,9 +11,3 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
-
-int	main(void)
-{
-	char str[] = "Hello, world!";
-	printf("This string has %i characters", ft_strlen(str));
-}
