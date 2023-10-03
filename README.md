@@ -1,13 +1,15 @@
 # 42-Piscine
 
 ## Skills
-•C language \n
-•Shell \n
-•Git \n
+•C language
+
+•Shell
+
+•Git
 
 ## Projects:
 
-### C00:
+### C00: Programming logic
 ex00: [ft_putchar](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex00/ft_putchar.c)
 ex01: ft_print_alphabet
 ex02: ft_print_reverse_alphabet
