@@ -11,11 +11,8 @@
 The Piscine is the last phase of the selection process that lasts 26 consecutive days and involves 42 face-to-face experience on the campus. This is typically a very intense period, of great commitment and enormous learning.
 
 ## Skills developed
-*C language
 
-*Shell
-
-*Git
+C language, Shell, Git
 
 ## Projects:
 
