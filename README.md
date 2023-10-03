@@ -1,4 +1,5 @@
-# 42-Piscine
+![42](https://github.com/debsalbornoz/42-Piscine-Sp/assets/119970138/e021628d-f667-4db9-add0-4addfcd31571)
+
 
 ## Skills
 •C language
