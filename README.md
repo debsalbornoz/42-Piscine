@@ -23,7 +23,7 @@ C language, Shell, Git
 
 • ex02: [ft_print_reverse_alphabet](https://github.com/debsalbornoz/42-Piscine-Sp/tree/main/C00/ex02/ft_print_reverse_alphabet.c) - prints the reverse alphabet
 
-• ex03: [ft_print_numbers](https://github.com/debsalbornoz/42-Piscine-Sp/tree/main/C00/ex03/ft_print_numbers.c) - prints numbar 0 until 9
+• ex03: [ft_print_numbers](https://github.com/debsalbornoz/42-Piscine-Sp/tree/main/C00/ex03/ft_print_numbers.c) - prints number 0 until 9
 
 • ex04: [ft_is_negative](https://github.com/debsalbornoz/42-Piscine-Sp/tree/main/C00/ex04/ft_is_negative.c) - prints "N" to standard output if "n" is negative, and "P" if "n" is positive or zero
 
@@ -38,7 +38,7 @@ C language, Shell, Git
 
 • ex00: [ft_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex00/ft_ft.c) - make a pointer to 42
 
-• ex01: [ft_ultimate_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex01/ft_ultimate_ft.c) - make a pointer to a pointer to a pinter to 42
+• ex01: [ft_ultimate_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex01/ft_ultimate_ft.c) - make a pointer to a pointer to a pointer to 42
 
 • ex02: [ft_swap](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex02/ft_swap.c) - swap two values using a temporary variable
 
