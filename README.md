@@ -4,14 +4,29 @@
 
 ### What is 42? 
 
-42 is one of the best software development schools in the world. Its success is largely due to its disruptive pedagogical model, based on a peer-to-peer, project-based and gamified learning system. Founded in Paris in 2013, 42 is present in more than 40 cities around the world.
+42  is a software engeneering school wich adopts an project-based and peer-to-peer educational model. Without teachers or formal classes, offers instead a dynamic and self-driven educational experience. The students engage with complex and practical projects that challenges their skills and criativity and learn through rigorous projects not only technichal proficience but also cultivate soft skills as teamwork, communication and adaptability.
+
 ### What is the piscine?
 
-The Piscine is the last phase of the selection process that lasts 26 consecutive days and involves 42 face-to-face experience on the campus. This is typically a very intense period, of great commitment and enormous learning.
+The Piscine is the last phase of the selection process that lasts 26 consecutive days which participants learn to learn, to collaborate and especially to deal with frustration. This is typically a very intense period, of great commitment and enormous learning. At the end of the process, its evaluated variables such as technical development and participant interaction, for example.
 
-## Skills developed
+## Hard skills:
 
-C language, Shell, Git.
+*C language: dealing with variables, pointers, data types and structures, control flow structures, functions, manipulate strings, debugging to find and fix logical problems.
+
+*Algorithms : design efficient algorithms and develop solutions.
+
+*Shell: Utilities, redirection and pipes, process management, scripting, command-line basics.
+
+*Git: All projects are submitted via a remote git repository, which demands students to learn about it.
+
+## Soft skills: 
+
+*Collaboration, teamwork : 
+
+self-learning and proactiveness ,
+Time management and resiliency
+
 
 ## Projects:
 
