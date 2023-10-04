@@ -27,9 +27,9 @@ C language, Shell, Git.
 
 • ex04 : [ft_is_negative](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex04/ft_is_negative.c) - prints 'N' if a number is negative or 'P' if the number is positive or 0
 
-• ex05 : [ft_print_comb](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex05/ft_print_comb.c) - displays, in ascending order, all the different combinations of three different digits in ascending order
+• ex05 : [ft_print_comb](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex05/ft_print_comb.c) - displays all the different combinations of three different digits in ascending order
 
-• ex06 : [ft_print_comb2](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex06/ft_print_comb2.c) - displays, in ascending order, all the different combinations of two different digits in ascending order
+• ex06 : [ft_print_comb2](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex06/ft_print_comb2.c) - displays all the different combinations of two different digits in ascending order
 
 • ex07 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex07/ft_putnbr.c) - turns an int into a char and prints it
 
