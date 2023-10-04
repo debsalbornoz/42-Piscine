@@ -16,7 +16,7 @@ The piscine is a rigorous way to access participants potential taking into accou
 
 ## Hard skills:
 
-•Algorithms : recursion, sorting and searching(quick sort and merge sort), divide and conquer technique of breaking a complex problem into smaller subproblems, alanylitcal thinking and code optimization/eficiency.
+•Algorithms : recursion, sorting and searching(quick sort and merge sort), divide and conquer technique of breaking a complex problem into smaller subproblems, analytical thinking and code optimization/eficiency.
 
 •Programming logic using C language : the concept of variables, operators, flow control structures(loops and conditionals), functions, arrays, data stuctures, pointers, memory and memory allocation, identify and fix problems using debugging tools.
 
