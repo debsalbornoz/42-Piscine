@@ -10,7 +10,9 @@ The learning enviroment at 42 is known for being collaborative and student-cente
 
 ### What is the piscine?
 
-The Piscine is the last phase of the selection process that lasts 26 consecutive days which participants learn to learn, to collaborate and especially to deal with frustration. This is typically a very intense period, of great commitment and enormous learning. At the end of the process, its evaluated variables such as technical development and participant interaction, for example.
+The Piscine is the last phase of the selection process at 42, is an intensive period of practical evaluation that lasts 26 consecutive days. During this period,cancidates are immersed in a serioes of practical programming challenges where they need to demonstrate their skills, creativity and problem-solving abilities.
+
+The piscine is a rigorous way to assess participants potential, taking into account not only their prior knowledge of programming but also skills such as collaboration, perseverance and critical thinking. It provides an opportunity for candidates to showcase their talent and determination to be admitted to the school and continue ther learning journey at 42.
 
 ## Hard skills:
 
