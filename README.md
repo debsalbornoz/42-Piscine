@@ -10,31 +10,36 @@ The learning enviroment at 42 is known for being collaborative and student-cente
 
 ### What is the piscine?
 
-The Piscine is the last phase of the selection process at 42, is an intensive period of practical evaluation that lasts 26 consecutive days. During this period,cancidates are immersed in a serioes of practical programming challenges where they need to demonstrate their skills, creativity and problem-solving abilities.
+The Piscine is the last phase of the selection process at 42, is an intensive period of practical evaluation that lasts 26 consecutive days. During this period candidates are immersed in a series of practical programming challenges where they need to demonstrate their skills, creativity and problem-solving abilities.
 
-The piscine is a rigorous way to assess participants potential, taking into account not only their prior knowledge of programming but also skills such as collaboration, perseverance and critical thinking. It provides an opportunity for candidates to showcase their talent and determination to be admitted to the school and continue ther learning journey at 42.
+The piscine is a rigorous way to access participants potential taking into account not only their prior knowledge of programming but also skills such as collaboration, perseverance and critical thinking. It provides an opportunity for candidates to showcase their talent and determination to be admitted to the school and continue ther learning journey at 42.
 
 ## Hard skills:
 
-*C language: dealing with variables, pointers, data types and structures, control flow structures, functions, manipulate strings, debugging to find and fix logical problems.
+•Algorithms : recursion, sorting and searching(quick sort and merge sort), divide and conquer technique of breaking a complex problem into smaller subproblems, alanylitcal thinking and code optimization/eficiency.
 
-*Algorithms : design efficient algorithms and develop solutions.
+•Programming logic using C language : the concept of variables, operators, flow control structures(loops and conditionals), functions, arrays, data stuctures, pointers, memory and memory allocation, identify and fix problems using debugging tools.
 
-*Shell: Utilities, redirection and pipes, process management, scripting, command-line basics.
+•Shell : basic commands, redirection and piping, scripting.
 
-*Git: All projects are submitted via a remote git repository, which demands students to learn about it.
+•Git: create repositories, commits, branches, revert and reset, github.
+
 
 ## Soft skills: 
 
-*Collaboration, teamwork : 
+•Communication: Articulate ideas clearly, essential for explaining the logical thinking and proposing solutions and adress differences of opinion constructively to maintein project progress. Also, giving and receiving feedback helps to improve skills and contributions.
 
-self-learning and proactiveness ,
-Time management and resiliency
+•Collaboration: Peer-to-peer learning creating a collaborative environment where everyone has opportunity to contribute and learn for others.
 
+•Resiliency: with rigorous assessments and constant challenges the ability to approach these with determination and persistence is crucial. It requires resilience to keep trying, learning from failures and constantly improving.
+
+•Self-learning and proactiveness: participants take charge of their own learning being encourauged to seek solutions, search for materials and ask for help by their own 
+
+•Time management: Manage the time efficiently to meet project goals balancing quality and speed.
 
 ## Projects:
 
-## C00: Programming logic
+## C00: Programming logic and algorithms
 
 • ex00 : [ft_putchar](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex00/ft_putchar.c) - prints a character 
 
@@ -74,7 +79,7 @@ Time management and resiliency
 • ex08 : [ft_sort_int_tab](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex08/ft_sort_int_tab.c) - sort an array of ints in ascending order
 
 
-## C02 : Strings and arrays 
+## C02 : Strings manipulation
 
 • ex00 : [ft_strcpy](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex00/ft_strcpy.c) - copy a string
 
@@ -96,7 +101,7 @@ Time management and resiliency
 
 • ex09 : [ft_strcapitalize](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex09/ft_strcapitalize.c) - capitalizes the first letter of each word and the rest of the word in lowercase.
 
-## C03 : Strings 
+## C03 : Strings manipulation
 
 • ex00 : [ft_strcmp](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex00/ft_strcmp.c) - compares two strings returning a value
 
