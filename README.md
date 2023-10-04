@@ -34,7 +34,7 @@ C language, Shell, Git.
 • ex07 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex07/ft_putnbr.c) - turns an int into a char and prints it
 
 
-## C01 : Pointers 
+## C01 : Pointers and algorithms
 
 • ex00 : [ft_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex00/ft_ft.c) - creates a pointer to 42
 
@@ -57,25 +57,25 @@ C language, Shell, Git.
 
 ## C02 : Strings and arrays 
 
-• ex00 :
+• ex00 : [ft_strcpy](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex00/ft_strcpy.c) - copy a string
 
-• ex01 :
+• ex01 : [ft_strncpy](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex01/ft_strncpy.c) - copy a string at most n bytes of src
 
-• ex02 :
+• ex02 : [ft_str_is_alpha](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex02/ft_str_is_alpha.c) - checks if the string only contains alphabetic characters
 
-• ex03 :
+• ex03 : [ft_is_number](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex03/ft_str_is_numeric.c) - checks if the string only contains numbers
 
-• ex04 :
+• ex04 : [ft_str_is_lowercase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex04/ft_str_is_lowercase.c) -checks if the string only contains lowercase alphabetic characters
 
-• ex05 :
+• ex05 : [ft_str_is_uppercase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex05/ft_str_is_uppercase.c) - checks if the string only contains uppercase alphabetic characters
 
-• ex06 :
+• ex06 : [ft_str_is_printable](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex06/ft_str_is_printable.c) -  checks if the string only contains printable characters
 
-• ex07 :
+• ex07 : [ft_strupcase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex07/ft_strupcase.c) - turns lowercase letters into uppercase
 
-• ex08 :
+• ex08 : [ft_strlowcase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex08/ft_strlowcase.c) -  turns uppercase letters into lowercase
 
-• ex09 :
+• ex09 : [ft_strcapitalize](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex09/ft_strcapitalize.c) - capitalizes the first letter of each word and the rest of the word in lowercase.
 
 ## C03 : Strings funcions, manupilation and concatenation
 
