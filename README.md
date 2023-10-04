@@ -77,20 +77,20 @@ C language, Shell, Git.
 
 • ex09 : [ft_strcapitalize](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex09/ft_strcapitalize.c) - capitalizes the first letter of each word and the rest of the word in lowercase.
 
-## C03 : Strings funcions, manupilation and concatenation
+## C03 : Strings 
 
-• ex00 :
+• ex00 : [ft_strcmp](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex00/ft_strcmp.c) - compares two strings returning a value
 
-• ex01 : 
+• ex01 : [ft_strncmp](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex01/ft_strncmp.c) - compares the first (at most) n bytes of s1 and s2
 
-• ex02 :
+• ex02 : [ft_strcat](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex02/ft_strcat.c) - concatenate two strings
 
-• ex03 :
+• ex03 : [ft_strncat](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex03/ft_strncat.c) - concatenate at most n bytes from src
 
-## C04 : Manipulating ints 
+## C04 : Programming logic
 
-• ex00 :
+• ex00 : [ft_strlen](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C04/ex00/ft_strlen.c) - gets the lenght of a string
 
-• ex01 :
+• ex01 : [ft_putstr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C04/ex01/ft_putstr.c) - prints a string
 
-• ex02 :
+• ex02 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C04/ex01/ft_putstr.c) - turns an integer into a string to print
