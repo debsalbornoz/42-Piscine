@@ -33,25 +33,27 @@ C language, Shell, Git.
 
 • ex07 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex07/ft_putnbr.c) - turns an int into a char and prints it
 
+
 ## C01 : Pointers 
 
-• ex00 :
+• ex00 : [ft_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex00/ft_ft.c) - creates a pointer to 42
 
-• ex01 :
+• ex01 : [ft_ultimate_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex01/ft_ultimate_ft.c) - creates a pointer to a pointer to a pointer(...) to 42
 
-• ex02 :
+• ex02 : [ft_swap](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex02/ft_swap.c) - swap two values
 
-• ex03 :
+• ex03 : [ft_div_mod](https://github.com/debsalbornoz/42-Piscine-Sp/tree/main/C01/ex03/ft_div_mod.c) - use div and mod to return a value 
 
-• ex04 :
+• ex04 : [ft_ultimate_div_mod](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex04/ft_ultimate_div_mod.c) - store value, swap them, use div and mode
 
-• ex05 :
+• ex05 : [ft_putstr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex05/ft_putstr.c) - write a string
 
-• ex06 :
+• ex06 : [ft_strlen](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex06/ft_strlen.c) - gets the lenght of a string
 
-• ex07 :
+• ex07 : [ft_rev_int_tab](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex07/ft_rev_int_tab.c) - inverts an array of integers
 
-• ex08 :
+• ex08 : [ft_sort_int_tab](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex08/ft_sort_int_tab.c) - sort an array of ints in ascending order
+
 
 ## C02 : Strings and arrays 
 
