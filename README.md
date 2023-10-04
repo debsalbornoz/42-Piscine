@@ -19,7 +19,7 @@ C language, Shell, Git.
 
 • ex00 : [ft_putchar](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex00/ft_putchar.c) - prints a character 
 
-• ex01 : [ft_print_alhpabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex01/ft_print_alphabet.c) - prints the alphabet
+• ex01 : [ft_print_alphabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex01/ft_print_alphabet.c) - prints the alphabet
 
 • ex02 : [ft_prints_reverse_alphabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex02/ft_print_reverse_alphabet.c) - prints the reverse alphabet
 
