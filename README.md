@@ -4,7 +4,9 @@
 
 ### What is 42? 
 
-42  is a software engeneering school wich adopts an project-based and peer-to-peer educational model. Without teachers or formal classes, offers instead a dynamic and self-driven educational experience. The students engage with complex and practical projects that challenges their skills and criativity and learn through rigorous projects not only technichal proficience but also cultivate soft skills as teamwork, communication and adaptability.
+42  is an innovative educational institution focused on technology and programming. Adopts a educational model where students participate in intensive hands-on learning programs. What sets 42 apart is the absence of teachers or formal classes. Instead, students work on a series of challenging and real-world practical projects, developing their programming skills, collaboration and problem-solving mindset.
+
+The learning enviroment at 42 is known for being collaborative and student-centered.Students are encouraged to work in teams, share knowledge and explore innovative solutions to the presented challenges. The institution has gained global recognition as one of the top software engeneering schools in the world.
 
 ### What is the piscine?
 
