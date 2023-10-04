@@ -17,21 +17,21 @@ C language, Shell, Git.
 
 ## C00: Programming logic
 
-• ex00 :
+• ex00 : [ft_putchar](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex00/ft_putchar.c) - prints a character 
 
-• ex01 :
+• ex01 : [ft_print_alhpabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex01/ft_print_alphabet.c) - prints the alphabet
 
-• ex02 :
+• ex02 : [ft_prints_reverse_alphabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex02/ft_print_reverse_alphabet.c) - prints the reverse alphabet
 
-• ex03 :
+• ex03 : [ft_print_numbers](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex03/ft_print_numbers.c) - prints 0 until 9
 
-• ex04 :
+• ex04 : [ft_is_negative](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex04/ft_is_negative.c) - prints 'N' if a number is negative or 'P' if the number is positive or 0
 
-• ex05 :
+• ex05 : [ft_print_comb](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex05/ft_print_comb.c) - displays, in ascending order, all the different combinations of three different digits in ascending order
 
-• ex06 :
+• ex06 : [ft_print_comb2](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex06/ft_print_comb2.c) - displays, in ascending order, all the different combinations of two different digits in ascending order
 
-• ex07 :
+• ex07 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex07/ft_putnbr.c) - turns an int into a char and prints it
 
 ## C01 : Pointers 
 
