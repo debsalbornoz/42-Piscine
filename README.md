@@ -14,29 +14,6 @@ The Piscine is the last phase of the selection process at 42, is an intensive pe
 
 The piscine is a rigorous way to access participants potential taking into account not only their prior knowledge of programming but also skills such as collaboration, perseverance and critical thinking. It provides an opportunity for candidates to showcase their talent and determination to be admitted to the school and continue ther learning journey at 42.
 
-## Hard skills:
-
-•Algorithms : recursion, sorting and searching(quick sort and merge sort), divide and conquer technique of breaking a complex problem into smaller subproblems, analytical thinking and code optimization/eficiency.
-
-•Programming logic using C language : the concept of variables, operators, flow control structures(loops and conditionals), functions, arrays, data stuctures, pointers, memory and memory allocation, identify and fix problems using debugging tools.
-
-•Shell : basic commands, redirection and piping, scripting.
-
-•Git: create repositories, commits, branches, revert and reset, github.
-
-
-## Soft skills: 
-
-•Communication: Articulate ideas clearly, essential for explaining the logical thinking and proposing solutions and adress differences of opinion constructively to maintein project progress. Also, giving and receiving feedback helps to improve skills and contributions.
-
-•Collaboration: Peer-to-peer learning creating a collaborative environment where everyone has opportunity to contribute and learn for others.
-
-•Resiliency: with rigorous assessments and constant challenges the ability to approach these with determination and persistence is crucial. It requires resilience to keep trying, learning from failures and constantly improving.
-
-•Self-learning and proactiveness: participants take charge of their own learning being encourauged to seek solutions, search for materials and ask for help by their own 
-
-•Time management: Manage the time efficiently to meet project goals balancing quality and speed.
-
 ## Projects:
 
 ## C00: Programming logic and algorithms
