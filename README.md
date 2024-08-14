@@ -2,96 +2,100 @@
 
 ## FAQ
 
-### What is 42? 
+### O que é a 42?
+A 42 é uma instituição educacional inovadora focada em tecnologia e programação. Adota um modelo educacional onde os alunos participam de programas intensivos de aprendizado prático. O que diferencia a 42 é a ausência de professores ou aulas formais. Em vez disso, os alunos trabalham em uma série de projetos desafiadores e práticos, desenvolvendo suas habilidades de programação, colaboração e resolução de problemas.
 
-42  is an innovative educational institution focused on technology and programming. Adopts a educational model where students participate in intensive hands-on learning programs. What sets 42 apart is the absence of teachers or formal classes. Instead, students work on a series of challenging and real-world practical projects, developing their programming skills, collaboration and problem-solving mindset.
+O ambiente de aprendizado na 42 é conhecido por ser colaborativo e centrado no aluno. Os alunos são incentivados a trabalhar em equipes, compartilhar conhecimento e explorar soluções inovadoras para os desafios apresentados. A instituição ganhou reconhecimento global como uma das melhores escolas de engenharia de software do mundo.
 
-The learning enviroment at 42 is known for being collaborative and student-centered.Students are encouraged to work in teams, share knowledge and explore innovative solutions to the presented challenges. The institution has gained global recognition as one of the top software engeneering schools in the world.
+### O que é a piscina?
+A Piscina é a última fase do processo de seleção na 42 e é um período intensivo de avaliação prática que dura 26 dias consecutivos. Durante esse período, os candidatos são imersos em uma série de desafios de programação práticos onde precisam demonstrar suas habilidades, criatividade e capacidade de resolução de problemas.
 
-### What is the piscine?
+A piscina é uma maneira rigorosa de avaliar o potencial dos participantes, levando em conta não apenas seu conhecimento prévio de programação, mas também habilidades como colaboração, perseverança e pensamento crítico. Ela oferece uma oportunidade para os candidatos mostrarem seu talento e determinação para serem admitidos na escola e continuar sua jornada de aprendizado na 42.
 
-The Piscine is the last phase of the selection process at 42, is an intensive period of practical evaluation that lasts 26 consecutive days. During this period candidates are immersed in a series of practical programming challenges where they need to demonstrate their skills, creativity and problem-solving abilities.
+## Projetos:
 
-The piscine is a rigorous way to access participants potential taking into account not only their prior knowledge of programming but also skills such as collaboration, perseverance and critical thinking. It provides an opportunity for candidates to showcase their talent and determination to be admitted to the school and continue ther learning journey at 42.
+### C00: Lógica de programação e algoritmos
 
-## Projects:
+ex00: ft_putchar - imprime um caractere
 
-## C00: Programming logic and algorithms
+ex01: ft_print_alphabet - imprime o alfabeto
 
-• ex00 : [ft_putchar](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex00/ft_putchar.c) - prints a character 
+ex02: ft_prints_reverse_alphabet - imprime o alfabeto em ordem reversa
 
-• ex01 : [ft_print_alphabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex01/ft_print_alphabet.c) - prints the alphabet
+ex03: ft_print_numbers - imprime de 0 até 9
 
-• ex02 : [ft_prints_reverse_alphabet](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex02/ft_print_reverse_alphabet.c) - prints the reverse alphabet
+ex04: ft_is_negative - imprime 'N' se o número for negativo ou 'P' se o número for positivo ou 0
 
-• ex03 : [ft_print_numbers](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex03/ft_print_numbers.c) - prints 0 until 9
+ex05: ft_print_comb - exibe todas as combinações diferentes de três dígitos distintos em ordem crescente
 
-• ex04 : [ft_is_negative](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex04/ft_is_negative.c) - prints 'N' if a number is negative or 'P' if the number is positive or 0
+ex06: ft_print_comb2 - exibe todas as combinações diferentes de dois dígitos distintos em ordem crescente
 
-• ex05 : [ft_print_comb](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex05/ft_print_comb.c) - displays all the different combinations of three different digits in ascending order
-
-• ex06 : [ft_print_comb2](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex06/ft_print_comb2.c) - displays all the different combinations of two different digits in ascending order
-
-• ex07 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C00/ex07/ft_putnbr.c) - turns an int into a char and prints it
+ex07: ft_putnbr - transforma um int em char e o imprime
 
 
-## C01 : Pointers and algorithms
-
-• ex00 : [ft_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex00/ft_ft.c) - creates a pointer to 42
-
-• ex01 : [ft_ultimate_ft](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex01/ft_ultimate_ft.c) - creates a pointer to a pointer to a pointer(...) to 42
-
-• ex02 : [ft_swap](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex02/ft_swap.c) - swap two values
-
-• ex03 : [ft_div_mod](https://github.com/debsalbornoz/42-Piscine-Sp/tree/main/C01/ex03/ft_div_mod.c) - use div and mod to return a value 
-
-• ex04 : [ft_ultimate_div_mod](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex04/ft_ultimate_div_mod.c) - store value, swap them, use div and mode
-
-• ex05 : [ft_putstr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex05/ft_putstr.c) - write a string
-
-• ex06 : [ft_strlen](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex06/ft_strlen.c) - gets the lenght of a string
-
-• ex07 : [ft_rev_int_tab](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex07/ft_rev_int_tab.c) - inverts an array of integers
-
-• ex08 : [ft_sort_int_tab](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C01/ex08/ft_sort_int_tab.c) - sort an array of ints in ascending order
+### C01: Ponteiros e algoritmos
 
 
-## C02 : Strings manipulation
+ex00: ft_ft - cria um ponteiro para 42
 
-• ex00 : [ft_strcpy](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex00/ft_strcpy.c) - copy a string
+ex01: ft_ultimate_ft - cria um ponteiro para um ponteiro para um ponteiro (...) para 42
 
-• ex01 : [ft_strncpy](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex01/ft_strncpy.c) - copy a string at most n bytes of src
+ex02: ft_swap - troca dois valores
 
-• ex02 : [ft_str_is_alpha](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex02/ft_str_is_alpha.c) - checks if the string only contains alphabetic characters
+ex03: ft_div_mod - usa div e mod para retornar um valor
 
-• ex03 : [ft_is_number](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex03/ft_str_is_numeric.c) - checks if the string only contains numbers
+ex04: ft_ultimate_div_mod - armazena valores, troca-os, usa div e mod
 
-• ex04 : [ft_str_is_lowercase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex04/ft_str_is_lowercase.c) -checks if the string only contains lowercase alphabetic characters
+ex05: ft_putstr - escreve uma string
 
-• ex05 : [ft_str_is_uppercase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex05/ft_str_is_uppercase.c) - checks if the string only contains uppercase alphabetic characters
+ex06: ft_strlen - obtém o comprimento de uma string
 
-• ex06 : [ft_str_is_printable](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex06/ft_str_is_printable.c) -  checks if the string only contains printable characters
+ex07: ft_rev_int_tab - inverte um array de inteiros
 
-• ex07 : [ft_strupcase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex07/ft_strupcase.c) - turns lowercase letters into uppercase
+ex08: ft_sort_int_tab - ordena um array de inteiros em ordem crescente
 
-• ex08 : [ft_strlowcase](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex08/ft_strlowcase.c) -  turns uppercase letters into lowercase
 
-• ex09 : [ft_strcapitalize](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C02/ex09/ft_strcapitalize.c) - capitalizes the first letter of each word and the rest of the word in lowercase.
+### C02: Manipulação de strings
 
-## C03 : Strings manipulation
 
-• ex00 : [ft_strcmp](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex00/ft_strcmp.c) - compares two strings returning a value
+ex00: ft_strcpy - copia uma string
 
-• ex01 : [ft_strncmp](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex01/ft_strncmp.c) - compares the first (at most) n bytes of s1 and s2
+ex01: ft_strncpy - copia uma string no máximo n bytes de src
 
-• ex02 : [ft_strcat](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex02/ft_strcat.c) - concatenate two strings
+ex02: ft_str_is_alpha - verifica se a string contém apenas caracteres alfabéticos
 
-• ex03 : [ft_strncat](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C03/ex03/ft_strncat.c) - concatenate at most n bytes from src
+ex03: ft_is_number - verifica se a string contém apenas números
 
-## C04 : Programming logic
+ex04: ft_str_is_lowercase - verifica se a string contém apenas caracteres alfabéticos minúsculos
 
-• ex00 : [ft_strlen](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C04/ex00/ft_strlen.c) - gets the lenght of a string
+ex05: ft_str_is_uppercase - verifica se a string contém apenas caracteres alfabéticos maiúsculos
 
-• ex01 : [ft_putstr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C04/ex01/ft_putstr.c) - prints a string
+ex06: ft_str_is_printable - verifica se a string contém apenas caracteres imprimíveis
 
-• ex02 : [ft_putnbr](https://github.com/debsalbornoz/42-Piscine-Sp/blob/main/C04/ex01/ft_putstr.c) - turns an integer into a string to print
+ex07: ft_strupcase - transforma letras minúsculas em maiúsculas
+
+ex08: ft_strlowcase - transforma letras maiúsculas em minúsculas
+
+ex09: ft_strcapitalize - capitaliza a primeira letra de cada palavra e o restante da palavra em minúsculas
+
+
+### C03: Manipulação de strings
+
+
+ex00: ft_strcmp - compara duas strings retornando um valor
+
+ex01: ft_strncmp - compara os primeiros (no máximo) n bytes de s1 e s2
+
+ex02: ft_strcat - concatena duas strings
+
+ex03: ft_strncat - concatena no máximo n bytes de src
+
+
+### C04: Lógica de programação
+
+
+ex00: ft_strlen - obtém o comprimento de uma string
+
+ex01: ft_putstr - imprime uma string
+
+ex02: ft_putnbr - transforma um inteiro em string para impressão
