@@ -1,101 +1,104 @@
-![42](https://github.com/debsalbornoz/42-Piscine-Sp/assets/119970138/3b177d6f-7d3f-4aa9-b709-ac259362e415)
+# 42 School — FAQ & Piscine Projects
 
-## FAQ
+> A collection of exercises completed during the 42 School admission process ("La Piscine"), covering C fundamentals: logic, algorithms, pointers, and string manipulation.
 
-### O que é a 42?
-A 42 é uma instituição educacional inovadora focada em tecnologia e programação. Adota um modelo educacional onde os alunos participam de programas intensivos de aprendizado prático. O que diferencia a 42 é a ausência de professores ou aulas formais. Em vez disso, os alunos trabalham em uma série de projetos desafiadores e práticos, desenvolvendo suas habilidades de programação, colaboração e resolução de problemas.
+## Table of Contents
 
-O ambiente de aprendizado na 42 é conhecido por ser colaborativo e centrado no aluno. Os alunos são incentivados a trabalhar em equipes, compartilhar conhecimento e explorar soluções inovadoras para os desafios apresentados. A instituição ganhou reconhecimento global como uma das melhores escolas de engenharia de software do mundo.
+- [About 42](#about-42)
+- [What is the Piscine?](#what-is-the-piscine)
+- [Projects](#projects)
+  - [C00 — Programming Logic and Algorithms](#c00--programming-logic-and-algorithms)
+  - [C01 — Pointers and Algorithms](#c01--pointers-and-algorithms)
+  - [C02 — String Manipulation](#c02--string-manipulation)
+  - [C03 — String Manipulation](#c03--string-manipulation)
+  - [C04 — Programming Logic](#c04--programming-logic)
 
-### O que é a piscina?
-A Piscina é a última fase do processo de seleção na 42 e é um período intensivo de avaliação prática que dura 26 dias consecutivos. Durante esse período, os candidatos são imersos em uma série de desafios de programação práticos onde precisam demonstrar suas habilidades, criatividade e capacidade de resolução de problemas.
+---
 
-A piscina é uma maneira rigorosa de avaliar o potencial dos participantes, levando em conta não apenas seu conhecimento prévio de programação, mas também habilidades como colaboração, perseverança e pensamento crítico. Ela oferece uma oportunidade para os candidatos mostrarem seu talento e determinação para serem admitidos na escola e continuar sua jornada de aprendizado na 42.
+## About 42
 
-## Projetos:
+**42** is an innovative educational institution focused on technology and programming. It follows a unique model in which students take part in intensive, hands-on learning programs — with **no teachers and no formal classes**.
 
-### C00: Lógica de programação e algoritmos
+Instead, students work through a series of challenging, practical projects, developing their programming, collaboration, and problem-solving skills in a peer-to-peer environment.
 
-ex00: ft_putchar - imprime um caractere
+The learning experience at 42 is collaborative and student-centered. Students work in teams, share knowledge, and explore creative solutions to the challenges they're given. As a result, 42 has earned global recognition as one of the best software engineering schools in the world.
 
-ex01: ft_print_alphabet - imprime o alfabeto
+## What is the Piscine?
 
-ex02: ft_prints_reverse_alphabet - imprime o alfabeto em ordem reversa
+The **Piscine** ("swimming pool" in French) is the final phase of 42's selection process: an intensive **26-day** evaluation period.
 
-ex03: ft_print_numbers - imprime de 0 até 9
+During this time, candidates are immersed in daily programming challenges designed to test:
 
-ex04: ft_is_negative - imprime 'N' se o número for negativo ou 'P' se o número for positivo ou 0
+- 💡 Technical skill and creativity
+- 🧩 Problem-solving ability
+- 🤝 Collaboration
+- 🔥 Perseverance and critical thinking under pressure
 
-ex05: ft_print_comb - exibe todas as combinações diferentes de três dígitos distintos em ordem crescente
+It's the candidate's chance to prove they have what it takes to be admitted — and to start their journey at 42.
 
-ex06: ft_print_comb2 - exibe todas as combinações diferentes de dois dígitos distintos em ordem crescente
+---
 
-ex07: ft_putnbr - transforma um int em char e o imprime
+## Projects
 
+### C00 — Programming Logic and Algorithms
 
-### C01: Ponteiros e algoritmos
+| Exercise | Name | Description |
+|----------|------|-------------|
+| ex00 | `ft_putchar` | Prints a character |
+| ex01 | `ft_print_alphabet` | Prints the alphabet |
+| ex02 | `ft_prints_reverse_alphabet` | Prints the alphabet in reverse order |
+| ex03 | `ft_print_numbers` | Prints digits from 0 to 9 |
+| ex04 | `ft_is_negative` | Prints `N` if negative, `P` if positive or zero |
+| ex05 | `ft_print_comb` | Displays all combinations of three distinct digits in ascending order |
+| ex06 | `ft_print_comb2` | Displays all combinations of two distinct digits in ascending order |
+| ex07 | `ft_putnbr` | Converts an `int` to a `char` and prints it |
 
+### C01 — Pointers and Algorithms
 
-ex00: ft_ft - cria um ponteiro para 42
+| Exercise | Name | Description |
+|----------|------|-------------|
+| ex00 | `ft_ft` | Creates a pointer to 42 |
+| ex01 | `ft_ultimate_ft` | Creates a pointer to a pointer to a pointer (...) to 42 |
+| ex02 | `ft_swap` | Swaps two values |
+| ex03 | `ft_div_mod` | Uses div and mod to return a value |
+| ex04 | `ft_ultimate_div_mod` | Stores, swaps, and applies div/mod to values |
+| ex05 | `ft_putstr` | Writes a string |
+| ex06 | `ft_strlen` | Gets the length of a string |
+| ex07 | `ft_rev_int_tab` | Reverses an array of integers |
+| ex08 | `ft_sort_int_tab` | Sorts an array of integers in ascending order |
 
-ex01: ft_ultimate_ft - cria um ponteiro para um ponteiro para um ponteiro (...) para 42
+### C02 — String Manipulation
 
-ex02: ft_swap - troca dois valores
+| Exercise | Name | Description |
+|----------|------|-------------|
+| ex00 | `ft_strcpy` | Copies a string |
+| ex01 | `ft_strncpy` | Copies at most `n` bytes from `src` |
+| ex02 | `ft_str_is_alpha` | Checks if the string contains only alphabetic characters |
+| ex03 | `ft_is_number` | Checks if the string contains only numbers |
+| ex04 | `ft_str_is_lowercase` | Checks if the string contains only lowercase letters |
+| ex05 | `ft_str_is_uppercase` | Checks if the string contains only uppercase letters |
+| ex06 | `ft_str_is_printable` | Checks if the string contains only printable characters |
+| ex07 | `ft_strupcase` | Converts lowercase letters to uppercase |
+| ex08 | `ft_strlowcase` | Converts uppercase letters to lowercase |
+| ex09 | `ft_strcapitalize` | Capitalizes the first letter of each word, lowercases the rest |
 
-ex03: ft_div_mod - usa div e mod para retornar um valor
+### C03 — String Manipulation
 
-ex04: ft_ultimate_div_mod - armazena valores, troca-os, usa div e mod
+| Exercise | Name | Description |
+|----------|------|-------------|
+| ex00 | `ft_strcmp` | Compares two strings, returning a value |
+| ex01 | `ft_strncmp` | Compares at most `n` bytes of `s1` and `s2` |
+| ex02 | `ft_strcat` | Concatenates two strings |
+| ex03 | `ft_strncat` | Concatenates at most `n` bytes from `src` |
 
-ex05: ft_putstr - escreve uma string
+### C04 — Programming Logic
 
-ex06: ft_strlen - obtém o comprimento de uma string
+| Exercise | Name | Description |
+|----------|------|-------------|
+| ex00 | `ft_strlen` | Gets the length of a string |
+| ex01 | `ft_putstr` | Prints a string |
+| ex02 | `ft_putnbr` | Converts an integer to a string for printing |
 
-ex07: ft_rev_int_tab - inverte um array de inteiros
+---
 
-ex08: ft_sort_int_tab - ordena um array de inteiros em ordem crescente
-
-
-### C02: Manipulação de strings
-
-
-ex00: ft_strcpy - copia uma string
-
-ex01: ft_strncpy - copia uma string no máximo n bytes de src
-
-ex02: ft_str_is_alpha - verifica se a string contém apenas caracteres alfabéticos
-
-ex03: ft_is_number - verifica se a string contém apenas números
-
-ex04: ft_str_is_lowercase - verifica se a string contém apenas caracteres alfabéticos minúsculos
-
-ex05: ft_str_is_uppercase - verifica se a string contém apenas caracteres alfabéticos maiúsculos
-
-ex06: ft_str_is_printable - verifica se a string contém apenas caracteres imprimíveis
-
-ex07: ft_strupcase - transforma letras minúsculas em maiúsculas
-
-ex08: ft_strlowcase - transforma letras maiúsculas em minúsculas
-
-ex09: ft_strcapitalize - capitaliza a primeira letra de cada palavra e o restante da palavra em minúsculas
-
-
-### C03: Manipulação de strings
-
-
-ex00: ft_strcmp - compara duas strings retornando um valor
-
-ex01: ft_strncmp - compara os primeiros (no máximo) n bytes de s1 e s2
-
-ex02: ft_strcat - concatena duas strings
-
-ex03: ft_strncat - concatena no máximo n bytes de src
-
-
-### C04: Lógica de programação
-
-
-ex00: ft_strlen - obtém o comprimento de uma string
-
-ex01: ft_putstr - imprime uma string
-
-ex02: ft_putnbr - transforma um inteiro em string para impressão
+<p align="center">Made during the 42 Piscine 🏊</p>
